@@ -52,12 +52,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sass/sass-original.svg" title="Sass" alt="NodeJS" width="40" height="40"/>&nbsp;
    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="NodeJS" width="40" height="40"/>&nbsp;
-</div>
-    ---
+</div>    
+---
 
 ### :fire: My Stats : <br/>
 <div align="center">  
-  <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=EldorKenjabayeve&count_private=true&hide_border=true&title_color=FADD92&icon_color=FADD92&text_color=c9d1d9&bg_color=0d1116" alt="Shoira github stats" /> 
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EldorKenjabayev)](https://git.io/streak-stats) 
   <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EldorKenjabayev&layout=compact&hide_border=true&title_color=FADD92&text_color=FADD92&bg_color=0d1116" />
 </div>
 ---
