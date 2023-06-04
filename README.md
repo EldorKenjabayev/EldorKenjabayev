@@ -56,9 +56,10 @@
     ---
 
 ### :fire: My Stats : <br/>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EldorKenjabayev&mode=weekly)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EldorKenjabayev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">  
+  <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=EldorKenjabayeve&count_private=true&hide_border=true&title_color=FADD92&icon_color=FADD92&text_color=c9d1d9&bg_color=0d1116" alt="Shoira github stats" /> 
+  <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EldorKenjabayev&layout=compact&hide_border=true&title_color=FADD92&text_color=FADD92&bg_color=0d1116" />
+</div>
 ---
 
 ### :writing_hand: Blog Posts : 
