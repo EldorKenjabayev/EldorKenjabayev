@@ -32,7 +32,7 @@
 
 - :telescope: I'm a newbie, still learning at Werpo IT  <br/>
 
-- :seedling: Learning Html, Scc, Sass, Bootstrap, JavaScript, ReactJs. <br/>
+- :seedling: Learning Html, Css, Sass, Bootstrap, JavaScript, ReactJs. <br/>
 
 - :zap: In my free time I solve problems on Codewars and read novels. <br/>
 
