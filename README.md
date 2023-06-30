@@ -30,7 +30,7 @@
 ### :woman_technologist: About Me : <br/>
   I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Uzbekistan. <br/>
 
-- :telescope: I'm a newbie, still learning at Werpo IT  <br/>
+- :telescope: I'm a newbie, still learning at Wepro IT  <br/>
 
 - :seedling: Learning Html, Css, Sass, Bootstrap, JavaScript, ReactJs. <br/>
 
