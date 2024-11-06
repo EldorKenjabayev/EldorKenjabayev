@@ -65,18 +65,37 @@
 </div>    
 ---
 
-### :fire: My Stats : <br/>
-<div align="center">  
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EldorKenjabayev)](https://git.io/streak-stats) 
+<div align="left" width="50%">
+<h3>
+  <summary>
+    📈  &nbsp; My GitHub Stats
+  </summary> 
+  
+</h3>
+  <br>
+
+  <!-- ./STAT -->
+<div align="center">  
+  <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=EldorKenjabayev&show_icons=true&count_private=true&hide_border=true&title_color=FADD92&icon_color=FADD92&text_color=c9d1d9&bg_color=0d1116" alt="EldorKenjabayev github stats" /> 
   <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EldorKenjabayev&layout=compact&hide_border=true&title_color=FADD92&text_color=FADD92&bg_color=0d1116" />
 </div>
----
 
-### :writing_hand: Blog Posts : 
+</div>
 
-<!-- BLOG-POST-LIST:START -->
 
-<!-- BLOG-POST-LIST:END -->
-    
+
+  <div align="center"><img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=EldorKenjabayev&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=FADD92&fire=FADD92&currStreakLabel=FADD92" alt="Eldor Kenjabayev" /></div>
+
+
+
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{EldorKenjabayev}/count.svg" /></p> 
+<br></div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FADD92&height=120&section=footer"/>
+<img width="100%" src="https://github.com/omadli/omadli/raw/master/output/github-contribution-grid-snake.svg" />
+
   
