@@ -37,7 +37,7 @@ I am a **Full Stack Developer** <img src="https://media.giphy.com/media/WUlplcMp
 
 - 🔭 I have completed the Wepro IT school in Full Stack development specialization
 - 🌱 Mastering React, Node.js, Express.js, and modern web technologies
-- ⚡ In my free time I solve problems on Codewars and read novels
+- ⚡ In my free time I solve problems on Leetcode and read novels
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Eldor-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eldor-kenjebayev-140808275/)
 
 ---
@@ -65,6 +65,7 @@ I am a **Full Stack Developer** <img src="https://media.giphy.com/media/WUlplcMp
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="50" height="50"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/AJAX_logo_by_gengns.svg/2560px-AJAX_logo_by_gengns.svg.png" title="AJAX" alt="AJAX" width="60" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-plain-wordmark.svg" title="Axios" alt="Axios" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Postgresql" alt="Postgresql" width="50" height="50"/>&nbsp;
 </div>
 
 #### 🛠️ Tools & DevOps
@@ -80,7 +81,10 @@ I am a **Full Stack Developer** <img src="https://media.giphy.com/media/WUlplcMp
 #### 🔤 Programming Languages
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/c/c-original.svg" title="C" alt="C" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="LaTeX" alt="LaTeX" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
+
+  
 </div>
 
 ---
