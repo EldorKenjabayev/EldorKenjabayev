@@ -125,10 +125,6 @@ const softSkills = {
   <img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=EldorKenjabayev&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=FADD92&fire=FADD92&currStreakLabel=FADD92" alt="Eldor Kenjabayev" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EldorKenjabayev&custom_title=EldorKenjabayev's%20GitHub%20Activity%20Graph&bg_color=0d1116&color=FADD92&line=FADD92&point=c9d1d9&area_color=FADD92&area=true&hide_border=true" alt="GitHub Activity Graph" />
-</div>
-
 ---
 
 ### 🏆 GitHub Achievements
@@ -161,10 +157,6 @@ Other        ████                   15.2%
 
 ---
 
-<div align="center">
-<br><p align="centre"><b>👥 Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{EldorKenjabayev}/count.svg" /></p> 
-<br>
 
 **💡 "Code is like humor. When you have to explain it, it's bad." – Cory House**
 
